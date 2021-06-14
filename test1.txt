@@ -4,3 +4,4 @@ nust
 lums
 gik
 These are the universities of Pakistan.
+I forgot to add a new university and that is peas
